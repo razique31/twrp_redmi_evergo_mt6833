@@ -9,4 +9,3 @@
 #
 ```
 # twrp_redmi_evero_mt6833
-# twrp_redmi_evero_mt6833
