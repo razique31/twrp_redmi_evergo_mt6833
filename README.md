@@ -8,4 +8,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# twrp_redmi_evero_mt6833
+# twrp_redmi_evergo_mt6833
